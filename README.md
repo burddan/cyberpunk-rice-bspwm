@@ -1,2 +1,2 @@
 # cyberpunk-rice-bspwm
-![Screenshot](myfirtrice.png)
+![Screenshot](myfirstrice.png)
